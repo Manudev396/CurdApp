@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/curdApp/static/css/main.31d6cfe0.css",
+    "main.js": "/curdApp/static/js/main.8f02f913.js",
+    "static/js/787.39c207b1.chunk.js": "/curdApp/static/js/787.39c207b1.chunk.js",
+    "index.html": "/curdApp/index.html",
+    "main.8f02f913.js.map": "/curdApp/static/js/main.8f02f913.js.map",
+    "787.39c207b1.chunk.js.map": "/curdApp/static/js/787.39c207b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.8f02f913.js"
+  ]
+}
