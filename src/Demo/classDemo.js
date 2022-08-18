@@ -188,7 +188,7 @@ class Statemanage extends React.Component
                 <br/><br/><br/>
                 
                 {
-                    this.state.showlist ? <div style={{background:"#58dced",fontSize:"20px",padding:"30px"}}>
+                    this.state.showlist ? <div style={{background:"red",fontSize:"20px",padding:"30px"}}>
                         <button style={{cursor:"pointer"}} onClick={this.addName}>Add Name</button>
                         {this.state.addname ? <div><input id="add"></input> <button style={{cursor:"pointer"}} onClick={this.listAdd}>Add</button></div> :null }
 
